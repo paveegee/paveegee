@@ -3,6 +3,15 @@
 ## About Me
 I thrive on solving marketing challenges, mapping need-state for high-tech products and creating seamless customer journeys. Since starting my career in 2013, when digital media marketing was still emerging, I've adapted and evolved with the industry. My goal is to help the world discover your product through strategic, data-driven marketing efforts that ensure smooth and impactful interactions with your brand.
 
+## Here are few marketing campagins I have worked on
+**[Samsung x National Geographic](https://www.youtube.com/watch?v=uGZztvUL0zY&ab_channel=SamsungIndia)**
+**[Samsung Galaxy S23](https://www.youtube.com/watch?v=kw7G_6UBy8g&ab_channel=SamsungIndia)**
+**[Samsung Galaxy S23](https://www.youtube.com/watch?v=kw7G_6UBy8g&ab_channel=SamsungIndia)**
+**[Samsung x National Geographic](https://www.youtube.com/watch?v=fE1G_dRub2o&ab_channel=SamsungIndia)**
+**[Galaxy Flip4](https://www.youtube.com/watch?v=1RAL9roh9Wk&ab_channel=SamsungIndia)**
+
+
+
 ## Marketing Expertise
 - **Go-to-Market Strategies**
 - **Integrated Marketing**
