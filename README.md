@@ -3,6 +3,8 @@
 ## About Me
 I thrive on solving marketing challenges, mapping need-state for high-tech products and creating seamless customer journeys. Since starting my career in 2013, when digital media marketing was still emerging, I've adapted and evolved with the industry. My goal is to help the world discover your product through strategic, data-driven marketing efforts that ensure smooth and impactful interactions with your brand.
 
+## Latest Blog - **[The Ripple Effect - How Snapchat’s Refusal of Facebook’s Buyout Shaped Social Media Stories](https://www.linkedin.com/feed/update/urn:li:activity:7209852950289031169/)**
+
 ## Here are few marketing campagins I have worked on
 **[Samsung x National Geographic](https://www.youtube.com/watch?v=uGZztvUL0zY&ab_channel=SamsungIndia)**
 **[Samsung Galaxy S23](https://www.youtube.com/watch?v=kw7G_6UBy8g&ab_channel=SamsungIndia)**
