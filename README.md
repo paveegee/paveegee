@@ -17,10 +17,11 @@ During my internship at Balise Motors, I developed this presentation, which high
 This case study focuses on a marketing analytics project where we applied the RFM model (Recency, Frequency, Monetary) to create customer segments based on purchase behavior. The aim was to identify key customer groups and optimize CRM and marketing strategies.
 
 Key Highlights:
-	•	Segmentation Approach: Using RFM scores, we segmented the customer base into five distinct groups. The goal was to recognize high-value customers, reactivate inactive ones, and encourage middle-tier customers to increase engagement.
-	•	Data-Driven Insights: By analyzing customer behavior patterns, we developed actionable insights for targeted marketing. Each segment received tailored communication strategies to improve retention, frequency, and overall customer lifetime value.
-	•	Tools & Techniques: Data was processed using SAS Studio, ranking customers based on their purchase behavior, and grouping them into meaningful segments to guide future marketing efforts.
-	•	Outcome: The project resulted in a more effective CRM strategy, offering personalized campaigns that boosted customer engagement and retention.
+
+- **Segmentation Approach:** Using RFM scores, we segmented the customer base into five distinct groups. The goal was to recognize high-value customers, reactivate inactive ones, and encourage middle-tier customers to increase engagement.
+- **Data-Driven Insights:** By analyzing customer behavior patterns, we developed actionable insights for targeted marketing. Each segment received tailored communication strategies to improve retention, frequency, and overall customer lifetime value.
+- **Tools & Techniques:** Data was processed using SAS Studio, ranking customers based on their purchase behavior, and grouping them into meaningful segments to guide future marketing efforts.
+- **Outcome:** The project resulted in a more effective CRM strategy, offering personalized campaigns that boosted customer engagement and retention.
 
 While this was a collaborative project, my focus was on analyzing the segmentation data and deriving key insights for optimizing customer targeting strategies.
 
