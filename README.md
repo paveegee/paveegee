@@ -1,16 +1,25 @@
 # Hi there, I'm Pallavi 👋
 
 ## About Me
-I thrive on solving marketing challenges, mapping need-state for high-tech products, and creating seamless customer journeys. My goal is to help the world discover your product through strategic, data-driven marketing efforts that ensure smooth and impactful interactions with your brand.
+I thrive at the intersection of technical complexity and strategic clarity. With over 9 years in product and channel marketing, I help high-tech brands:
+	•	Craft GTM narratives that resonate with engineers, buyers, and partners
+	•	Drive pipeline and activation through full-funnel digital campaigns
+	•	Build scalable, data-backed systems for lead generation, nurture, and conversion
 
 ## 'Notion for Students' - A portfolio project
+Focus: Segment-specific messaging, funnel-based enablement, scalable activation via co-branded templates.
 **[View Presentation](https://newstorelaunchlanding.my.canva.site/notion-for-students)**
 
 ## MBA Case Study: Behavioral Customer Segmentation Using the RFM Model
+Applied behavioral clustering (Recency, Frequency, Monetary) to identify high-value customer cohorts. Simulated retention impact of loyalty tiering, projecting 11% revenue lift and a 20% improvement in 12-month retention.
+
+**Tools: R, SQL, Power BI | KPIs: Retention %, Lifetime Value | Outcome: Data-driven loyalty framework**
 **[View Presentation](https://drive.google.com/file/d/1QgaBnkNKLB5oqimrzfDUlBQR7V9SPdVG/view?usp=sharing)**
 
-## Strategic Campaign Orchestration: End-to-End Execution and Management for co-branded partner campaign with National Geographic for Samsung Galasy S21 smartphones. Worked with creative, media, tech, design and brand partners to launch a B2B2C campaign on various channels such as in-store media, POSM, print, OTT, immersive battle cards of retailers, email, SEM and paid media. 
-
+## Samsung x National Geographic – Multi-Channel Flagship Launch: 
+Led end-to-end orchestration of a co-branded campaign for the Galaxy S21, targeting creator and early adopter segments. Managed execution across OTT, print, in-store, and digital with full-funnel CRM + paid support.
+**Result: 70K+ preorders, high channel partner engagement, and earned industry recognition.
+**
 - **[Samsung x National Geographic](https://www.youtube.com/watch?v=uGZztvUL0zY&ab_channel=SamsungIndia)**
 - **[Samsung x National Geographic](https://www.youtube.com/watch?v=fE1G_dRub2o&ab_channel=SamsungIndia)**
 - **[Samsung Newsroom Article](https://news.samsung.com/global/samsung-india-teams-up-with-national-geographic-traveller-india-for-first-ever-underwater-expedition-with-galaxy-s21-ultra-5gs-8k-video-snap-feature)**
